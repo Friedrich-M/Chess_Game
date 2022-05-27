@@ -1,0 +1,4 @@
+red Ïà moves from (7,1) to (5,3)
+black ³h eats red Âí which moves from (8,8) to (8,1)
+red ‚e moves from (9,1) to (9,2)
+black ³h eats red Ž› which moves from (8,1) to (5,1)
